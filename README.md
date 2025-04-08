@@ -1,0 +1,2 @@
+Two Excel files containing the data required to create the figures for the ADHD review article are provided in this repository. These files include essential datasets extracted from research articles for visualization and analysis
+The written code is designed to create a DataFrame and an Excel file for subsequent analyses, including statistical analyses, in the ADHD review article. These analyses utilize the data extracted from various research articles.
